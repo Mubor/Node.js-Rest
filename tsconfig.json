@@ -11,9 +11,9 @@
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "sourceMap": true,
-    "types": [
-      "node"
-    ],
+    // "types": [
+    //   "node"
+    // ],
   },
   "watchOptions": {
     "excludeDirectories": ["node_modules", "dist"]
